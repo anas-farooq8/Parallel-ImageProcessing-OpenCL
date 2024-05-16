@@ -9,6 +9,11 @@ The objective of this project is to convert the ISIC 2020 Challenge Dataset, whi
 ## The ISIC 2020 Challenge Dataset
 The ISIC dataset is a crucial resource for dermatology and medical image analysis, offering a diverse collection of high-quality skin lesion images. It supports the development of diagnostic systems, segmentation algorithms, and deep learning models for automated lesion detection and classification. Converting these images to grayscale simplifies image representation and aids in analysis and processing.
 
+## Download the Dataset
+Test
+Set available at containing 10,982 JPEG images of different sizes:
+https://isic-challenge-data.s3.amazonaws.com/2020/ISIC_2020_Test_JPEG.zip
+
 ##  Problem Description
 You are provided with a dataset of colored images of skin lesions in JPEG format. The task is to convert these colored images to grayscale images using OpenCL parallel computing.
 
