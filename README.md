@@ -50,7 +50,7 @@ You are provided with a dataset of colored images of skin lesions in JPEG format
     ```
 
 ## Compilation & Execution
-`gcc host.c -o host -lOpenCL`
+`gcc host.c -o host -lm -lOpenCL`
 
 `./host`
 
